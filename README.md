@@ -12,9 +12,9 @@ We propose a Hybrid Hierarchical Attention Network (HHAN) to detect whether the 
 - keras
 
 
-## Project architecture
+## Project Architecture
 
-- data/sgns.weibo.word: Word embedded files from https://github.com/Embedding/Chinese-Word-Vectors.
+- data/sgns.weibo.word: Word embedded files, you can download from https://github.com/Embedding/Chinese-Word-Vectors.
 - data/stop_words.txt: File to remove stop_words.
 - data/all_data.csv: Our WeChat misinformation dataset.
 - HAN-cate-side.ipynb: Code file
